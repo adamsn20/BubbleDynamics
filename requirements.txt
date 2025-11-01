@@ -5,4 +5,3 @@ streamlit
 seaborn
 scipy
 tqdm
-math
