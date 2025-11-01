@@ -3,3 +3,7 @@ pandas
 matplotlib
 streamlit
 seaborn
+scipy
+tqdm
+copy
+math
